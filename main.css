@@ -1,0 +1,25 @@
+body {
+  font-family: 'Combo', cursive;
+  font-family: 'Metal', cursive;
+  font-family: 'Princess Sofia', cursive;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  flex-flow: row wrap;
+  align-items: center;
+  width: 100%;
+  background-color: #000;
+  border: 2px solid #000;
+}
+
+nav a {
+  color: red;
+  font-size: 36px;
+}
+
+#hormiga {
+  width: 10%;
+  height: 5%;
+}
